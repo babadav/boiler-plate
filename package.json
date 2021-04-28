@@ -1,7 +1,6 @@
 {
-	"name": "circus-starter",
+	"name": "boiler-plate",
 	"version": "1.10.0",
-	"description": "A good starting point for new Circus students",
 	"main": "gulpfile.js",
 	"devDependencies": {
 		"@babel/core": "^7.4.0",
